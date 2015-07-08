@@ -17,6 +17,6 @@ class ProductsController < InheritedResources::Base
   end
 
 
-  #this is 2.0
+  #this is 3.0
 end
 
