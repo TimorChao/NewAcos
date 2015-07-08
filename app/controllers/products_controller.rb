@@ -15,5 +15,8 @@ class ProductsController < InheritedResources::Base
   def filtering_params(params)
     params.slice(:contains , :price)
   end
+
+
+  #this is 2.0
 end
 
